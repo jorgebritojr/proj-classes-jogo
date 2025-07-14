@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do desafio prático da **DIO (Digital I
 
 ---
 
-## 📌 Descrição do Projeto
+## Descrição do Projeto
 
 A proposta do desafio é:
 
@@ -31,10 +31,7 @@ Com ataques diferentes dependendo do tipo de herói:
 ---
 
 
-
-
-
-## 💻 Código-fonte (`index.js`)
+## Código-fonte (`index.js`)
 
 ```javascript
 // Definindo a classe
@@ -84,19 +81,19 @@ const user4 = new Hero("Hanzo", 28, "Ninja");
 console.log(user4.atacar());
 console.log("-----");
 ```
-🧪 Resultado Esperado no Console
+
+## Resultado Esperado no Console
 
 O mago atacou usando magia
------
+
 O guerreiro atacou usando espada
------
+
 O monge atacou usando artes marciais
------
+
 O ninja atacou usando shuriken
------
 
 
-🚀 Como executar
+## Como executar
 Certifique-se de ter o Node.js instalado.
 
 Salve o código acima em um arquivo chamado index.js.
@@ -105,7 +102,7 @@ No terminal, execute o comando:
 
 node index.js
 
-🧠 Conceitos aplicados
+## Conceitos aplicados
 Classes e Objetos
 
 Métodos e Construtores
