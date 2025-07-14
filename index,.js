@@ -29,5 +29,15 @@ class Hero {
 }
 
 const user1 = new Hero("Jorge", 42, "Mago");
-
 console.log(user1.atacar())
+console.log("-----")
+
+const user2 = new Hero("Aragorn", 35, "Guerreiro");
+console.log(user2.atacar()); 
+console.log("-----")
+const user3 = new Hero("Li", 29, "Monge");
+console.log(user3.atacar()); 
+console.log("-----")
+const user4 = new Hero("Hanzo", 28, "Ninja");
+console.log(user4.atacar()); 
+console.log("-----")
