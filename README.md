@@ -1,6 +1,6 @@
 # 🧙‍♂️ Desafio - Classe `Hero` em JavaScript
 
-Este projeto foi desenvolvido como parte do desafio prático da **DIO (Digital Innovation One)**, com o objetivo de aplicar os conhecimentos sobre programação orientada a objetos em JavaScript, criando uma classe que representa heróis com comportamentos distintos de ataque.
+Desafio prático com o objetivo de aplicar os conhecimentos sobre programação orientada a objetos em JavaScript, criando uma classe que representa heróis com comportamentos distintos de ataque.
 
 ---
 
