@@ -30,6 +30,10 @@ Com ataques diferentes dependendo do tipo de herói:
 
 ---
 
+
+
+
+
 ## 💻 Código-fonte (`index.js`)
 
 ```javascript
@@ -79,8 +83,7 @@ console.log("-----");
 const user4 = new Hero("Hanzo", 28, "Ninja");
 console.log(user4.atacar());
 console.log("-----");
-
-
+```
 🧪 Resultado Esperado no Console
 
 O mago atacou usando magia
@@ -102,10 +105,14 @@ No terminal, execute o comando:
 
 node index.js
 
-
 🧠 Conceitos aplicados
 Classes e Objetos
-Métodos e construtores
-Estruturas condicionais (switch)
-Manipulação de strings
-Boas práticas de organização de código
+
+Métodos e Construtores
+
+Estruturas Condicionais (switch)
+
+Manipulação de Strings
+
+Boas Práticas de Organização de Código
+
